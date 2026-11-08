@@ -1,2 +1,30 @@
 # Claude-Proxy
 Run Ai model On Claude code
+Free key:
+API: mstrl_FX22foABsxYU0g8PXPwPtCY7jZzOxzqN_3CR0rl
+Status: Active✅
+Model: 
+- codestral-2508✅
+- codestral-embed✅
+- deepseek-v4-1-flash-1017✅
+- glm-5-2✅
+- labs-leanstral-1-5-1✅
+- ministral-14b-2512✅
+- ministral-3b-2512✅
+- ministral-8b-2512✅
+- mistral-embed-2312✅
+- mistral-large-2512✅
+- mistral-large-4✅
+- mistral-medium-latest✅
+- mistral-moderation-2603✅
+- mistral-small-2603✅
+- voxtral-mini-2602✅
+- voxtral-mini-transcribe-3✅
+- voxtral-mini-transcribe-realtime-2602✅
+- voxtral-mini-transcribe-realtime-3✅
+- voxtral-mini-tts-2603✅
+- voxtral-mini-tts-3-0✅
+- voxtral-small-2507✅
+- voxtral-small-transcribe-3✅
+- zai-glm-5-3✅
+- zai-glm-5-3-flash✅
